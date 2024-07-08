@@ -1,4 +1,4 @@
-# Space Invaders Game
+# Space Invaders Game👽👾🤖
 
 Welcome to the Space Invaders game project! This project is designed to help you practice and improve your programming skills using Python. This README file provides an overview of the project, installation instructions, a guide on how to play the game, and insights into the code structure.
 
